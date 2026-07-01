@@ -39,6 +39,12 @@ Hyderabad -> Kurnool -> Anantapur -> Tirupati
 
 Total Distance: 650 km
 
+## Team Members
+- Sruthi
+- Anusha
+- Anjali Rangu
+
 ## Author
-Anjali Rangu
+Sruthi
 ePBL Internship Project 2026
+
